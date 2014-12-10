@@ -12,4 +12,4 @@ type: group-project
 
 Yes we did, but we didn't do it in the most efficient manner. What if you wanted to make 100 lists in the way we originally did it? You would have to copy and paste all of that code into 100 different files and run them all separately. That sounds sort of insane, doesn't it?
 
-Based on our new-found love of object-orientation, let's refactor our To-Do List app! 
+Based on our new-found love of object-orientation, let's refactor our To-Do List app!
